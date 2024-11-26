@@ -1,16 +1,18 @@
-## Hi there 👋
+👨‍💻 Lucas Albuquerque
+🚀 Especialista em ERP's (ERP Primavera V10 - ERP Visual Linx) 
+🧠 Entusiasta de IA e Tecnologia
+📍 Brasil e Portugal
 
-<!--
-**lucas-albuquerque-consultor/lucas-albuquerque-consultor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Sobre mim:
+🎯 Transformo dados complexos em soluções inteligentes.
+🛠️ Focado Integrações e automatizações de processos.
+🖥️ Criador de aplicações robustas como o Importador SAFT 1.0 e ferramentas de processamento de dados XML para Excel.
 
-Here are some ideas to get you started:
+🌟 Destaques:
+💡 Visionário em projetos de tecnologia dinâmica e IA prática.
+🔗 Criando pontes entre contabilidade e tecnologia com lógica sólida.
+🧩 Amante de códigos bem estruturados e interfaces intuitivas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👀 Foco atual:
+⚙️ Aprimorando soluções de ERP e gestão empresarial.
+🚀💻🔧
