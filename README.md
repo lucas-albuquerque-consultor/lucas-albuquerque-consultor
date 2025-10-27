@@ -1,15 +1,51 @@
 <div align="center">
   <h1>ERP &amp; IA aplicada ao negócio (Primavera v10 • Visual Linx)</h1>
   <p><strong>Brasil 🇧🇷 | Portugal 🇵🇹</strong></p>
-  <!-- linha gradiente (imagem) -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4cc9f0,50:80ed99,100:a78bfa&height=4&text=&fontSize=0&section=header" width="100%" alt="divider"/>
+
+  <!-- efeito de digitação (SVG animado, compatível com README do GitHub) -->
+  <p>
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&center=true&vCenter=true&width=880&lines=Integra%C3%A7%C3%B5es+%E2%80%A2+Automa%C3%A7%C3%A3o+%E2%80%A2+ETL;Primavera+v10+%7C+WebAPI+OAuth2;FastAPI+%2B+React+%2B+SQL+Server;Performance+%7C+Seguran%C3%A7a+%7C+Rastreabilidade"
+      alt="typing animation">
+  </p>
+
+  <!-- barra de luz móvel (SVG puro) -->
+  <svg width="100%" height="8" viewBox="0 0 100 4" preserveAspectRatio="none" aria-hidden="true">
+    <defs>
+      <linearGradient id="glow" x1="0" x2="1">
+        <stop offset="0%" stop-color="#4cc9f0"/>
+        <stop offset="50%" stop-color="#80ed99"/>
+        <stop offset="100%" stop-color="#a78bfa"/>
+      </linearGradient>
+    </defs>
+    <rect x="0" y="0" width="100" height="4" fill="#2d333b" opacity="0.35"/>
+    <rect x="-120" y="0" width="40" height="4" rx="2" fill="url(#glow)">
+      <animate attributeName="x" values="-120;120" dur="3.5s" repeatCount="indefinite"/>
+    </rect>
+  </svg>
 </div>
 
 <h2>O que faço</h2>
 <p>Transformo dados e processos em produtos reais: integrações, automações e pipelines robustos.</p>
 <p>Ligo Logística, Tesouraria, Contabilidade, RH ↔ Em tecnologia com lógica sólida e segura, com performance e rastreabilidade.</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a78bfa,100:4cc9f0&height=2&text=&fontSize=0&section=header" width="100%" alt="divider"/>
+<!-- 3 pontos pulsando (pipeline em ação) -->
+<p>
+<svg width="110" height="18" viewBox="0 0 120 20" xmlns="http://www.w3.org/2000/svg" aria-label="build dots">
+  <circle cx="15"  cy="10" r="3" fill="#4cc9f0">
+    <animate attributeName="r" values="3;6;3" dur="1.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;.6;1" dur="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="60"  cy="10" r="3" fill="#80ed99">
+    <animate attributeName="r" values="3;6;3" dur="1.2s" begin="0.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;.6;1" dur="1.2s" begin="0.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="105" cy="10" r="3" fill="#a78bfa">
+    <animate attributeName="r" values="3;6;3" dur="1.2s" begin="0.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;.6;1" dur="1.2s" begin="0.4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
+</p>
 
 <h2>Projectos em destaque (recentes)</h2>
 <ul>
@@ -25,12 +61,15 @@
   </li>
 </ul>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:80ed99,100:a78bfa&height=2&text=&fontSize=0&section=header" width="100%" alt="divider"/>
+<!-- separador estático em imagem (compatível GitHub) -->
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:80ed99,100:a78bfa&height=2&text=&fontSize=0&section=header" width="100%" alt="divider"/>
+</p>
 
 <h2>Stack</h2>
 <p><code>Python (FastAPI, Uvicorn)</code> · <code>JavaScript/React</code> · <code>SQL Server (T-SQL, ODBC)</code> · <code>C# (.NET) p/ SDK Primavera</code> · <code>PowerShell</code> · <code>Crystal Reports</code> · <code>OAuth2</code> · <code>Pandas/OpenPyXL</code></p>
 
-<!-- badges coloridos (imagens) — sempre visíveis -->
+<!-- badges (visuais, sempre visíveis) -->
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff">
@@ -47,7 +86,19 @@
   <img alt="OpenPyXL" src="https://img.shields.io/badge/OpenPyXL-2C8EBB?logo=python&logoColor=white">
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4cc9f0,50:a78bfa,100:80ed99&height=2&text=&fontSize=0&section=header" width="100%" alt="divider"/>
+<!-- linha com “scanner” animado (SVG puro) -->
+<svg width="100%" height="8" viewBox="0 0 100 4" preserveAspectRatio="none" aria-hidden="true">
+  <defs>
+    <linearGradient id="scan" x1="0" x2="1">
+      <stop offset="0%" stop-color="#4cc9f0"/>
+      <stop offset="100%" stop-color="#80ed99"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="100" height="4" fill="#2d333b" opacity="0.35"/>
+  <rect x="-40" y="0" width="40" height="4" fill="url(#scan)">
+    <animate attributeName="x" values="-40;100;-40" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
 
 <h2>Como penso/entrego</h2>
 <p>Zero suposições: analiso o processo em sua raiz, antes de propor uma solução que realmente faça sentido ao processo como um todo.</p>
